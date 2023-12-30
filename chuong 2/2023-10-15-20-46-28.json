@@ -1,0 +1,8 @@
+[
+    {
+        "type": "sell",
+        "item": "gold",
+        "amount": 3,
+        "total": 9000
+    }
+]

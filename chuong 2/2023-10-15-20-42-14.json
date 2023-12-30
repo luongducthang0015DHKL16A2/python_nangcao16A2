@@ -1,0 +1,8 @@
+[
+    {
+        "type": "buy",
+        "item": "money",
+        "amount": 3,
+        "price": 3000
+    }
+]

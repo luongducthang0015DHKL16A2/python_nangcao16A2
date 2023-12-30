@@ -1,0 +1,12 @@
+{
+    "ten_cty": "Công Ty TNHH Đất Viet",
+    "địa chỉ": "279 Giải Phóng - Hà Nội",
+    "employees": [
+        { "name": "thang", "group": "đơn vị A1" },
+        { "name": "cuong", "group": "đơn vị A2" },
+        { "name": "lan", "group": "đơn vị A1" },
+        { "name": "thanh", "group": "đơn vị A4" },
+        { "name": "hieu", "group": "đơn vị A3" },
+        { "name": "huong", "group": "đơn vị A3" }
+    ]
+}

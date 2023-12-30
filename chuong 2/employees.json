@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Nguyen Van A",
+        "company": "Company X",
+        "workplace": "Workshop 1"
+    },
+    {
+        "name": "Tran Thi B",
+        "company": "Company X",
+        "workplace": "Workshop 2"
+    },
+    {
+        "name": "Le Van C",
+        "company": "Company X",
+        "workplace": "Workshop 3"
+    },
+    {
+        "name": "Pham Thi D",
+        "company": "Company X",
+        "workplace": "Workshop 4"
+    },
+    {
+        "name": "Hoang Van E",
+        "company": "Company X",
+        "workplace": "Workshop 5"
+    }
+]

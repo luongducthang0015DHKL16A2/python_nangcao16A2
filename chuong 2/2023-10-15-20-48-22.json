@@ -1,0 +1,14 @@
+[
+    {
+        "type": "buy",
+        "item": "gold",
+        "amount": 1,
+        "total": 3000
+    },
+    {
+        "type": "sell",
+        "item": "money",
+        "amount": 4,
+        "total": 8000
+    }
+]
